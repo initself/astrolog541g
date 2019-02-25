@@ -1,7 +1,7 @@
 # Astrolog 5.41g
 
 ## Astrolog 5.30 to 5.40    
-Walter D. Pullen wrote the original version of [Astrolog](http://www.astrolog.org/astrolog/astfile.htm). He ported the main planetary calculation routines to C. These routines were based on the work of James Neely. Neely's routines were listed in Michael Erlewine's Manual of Computer Programming for Astrologers. The program was originally written in 16 bit.
+Walter D. Pullen wrote the original version of [Astrolog](http://www.astrolog.org/astrolog/astfile.htm). He ported the main planetary calculation routines to C. These routines were based on the work of James Neely. Neely's routines were listed in Michael Erlewine's [Manual of Computer Programming for Astrologers](https://www.amazon.com/dp/0866900993). The program was originally written in 16 bit.
 
 Over time, several people began writing upgraded versions of Astrolog. Walter Pullen wrote Astrolog 5.30. He borrowed the accurate ephemeris databases and formulae in the calculation routines found in the Placalc program. These were written and copyrighted by Alois Treindl and Astrodienst AG. Valja (Valentin Abramov) modified Astrolog 5.30, creating successive versions from 5.30a to 5.30g, including the last of this series, 5.30g1.
 
