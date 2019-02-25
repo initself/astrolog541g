@@ -1,5 +1,7 @@
 # Astrolog 5.41g
 
+Astrolog is an astrology chart calculation program.
+
 Astrolog features: wheels, aspects, midpoints, relationship charts, transits, progressions, some interpretations, astro-graphy, local horizon, constellations, planet orbits, dispositors, various influence charts, esoteric astrology, biorhythms, different zodiacs, central planets, 21 house systems, 3D houses, 10800 year ephemeris, asteroids, Uranians, fixed stars, Arabic parts, script files and macros, interactive MS/X11 Windows graphics, smooth animation of charts, graphic files in PostScript, Windows metafile, and bitmap formats.
 
 ## Astrolog 5.30 to 5.40    
