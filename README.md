@@ -17,7 +17,7 @@ Astrolog 5.30, 5.30a to 5.30g1, and 5.40 all use the Placalc ephemeris. They loo
 
 In Astrolog 5.40, the ephemeris files can be turned on and off by going to Setting -> Calculation Settings. When the ephemeris files are turned off, Astrolog 5.40 will use the Matrix routines which give locations significantly in error the further we go away from the 20th century. If the ephemeris files are turned on but can't be found, these versions of Astrolog will return an error message and use the Matrix routines. Astrolog 5.31 and 5.31g use the Swiss Ephemeris. The Swiss Ephemeris is discussed in the next section.
 
-Astrolog 5.40 supports the YE switch which is used to modify the orbital characteristics of any selected planet. This flag can be used to "add" a new (hypothetical) planet to Astrolog 5.40. See Inserting Transpluto into Astrolog 5.4 Using the YE Switch for a full discussion of entering hypothetical planets into Astrolog 5.4.
+Astrolog 5.40 supports the YE switch which is used to modify the orbital characteristics of any selected planet. This flag can be used to "add" a new (hypothetical) planet to Astrolog 5.40. 
 
 ## Astrolog 5.41 to 5.41G
 
