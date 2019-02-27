@@ -43,13 +43,13 @@ Astrolog 5.41G also supports the YE switch which is used to modify the orbital c
 
 Astrolog (Version 5.41G) File: astrolog.h
 
-Code changed by Valentin Abramov (valja@tartu.customs.ee)
+Code changed by Valentin Abramov
 
-IMPORTANT NOTICE: The graphics database and chart display routines used in this program are Copyright (C) 1991-1998 by Walter D. Pullen (Astara@msn.com, http://www.magitech.com/~cruiser1/astrolog.htm).  Permission is granted to freely use and distribute these routines provided one doesn't sell, restrict, or profit from them in any way.  Modification is allowed provided these notices remain with any altered or edited versions of the program.
+IMPORTANT NOTICE: The graphics database and chart display routines used in this program are Copyright (C) 1991-1998 by Walter D. Pullen.  Permission is granted to freely use and distribute these routines provided one doesn't sell, restrict, or profit from them in any way.  Modification is allowed provided these notices remain with any altered or edited versions of the program.
 
 The main planetary calculation routines used in this program have been Copyrighted and the core of this program is basically a conversion to C of the routines created by James Neely as listed in Michael Erlewine's 'Manual of Computer Programming for Astrologers', available from Matrix Software. The copyright gives us permission to use the routines for personal use but not to sell them or profit from them in any way.
 
-The PostScript code within the core graphics routines are programmed and Copyright (C) 1992-1993 by Brian D. Willoughby (brianw@sounds.wa.com). Conditions are identical to those above.
+The PostScript code within the core graphics routines are programmed and Copyright (C) 1992-1993 by Brian D. Willoughby. Conditions are identical to those above.
 
 The extended accurate ephemeris databases and formulas are from the calculation routines in the library SWISS EPHEMERIS and are programmed and copyright 1998 by Astrodienst AG.  The use of that source code is subject to the Swiss Ephemeris Public License, available at http://www.astro.ch/swisseph. This copyright notice must not be changed or removed by any user of this program.
 
